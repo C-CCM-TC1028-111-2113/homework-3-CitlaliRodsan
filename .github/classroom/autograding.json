@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Volumen Prisma Rectangular",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/07VolumenPrismaRectangular",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Tarjeteria Española",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/08TarjeteriaEspanola",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Area Rectángulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09AreaRectangulo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Bisiesto",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10Bisiesto",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    }
+  ]
+}
